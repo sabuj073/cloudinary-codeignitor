@@ -73,7 +73,7 @@ class Welcome extends CI_Controller {
         -- See Cloudinary PHP API docs for additional examples.
         */
 
-        //$data['imageupload'] = \Cloudinary\Uploader::upload("https://kojiflowers.com/wp-content/uploads/2017/01/vide-1050x478.png");
+        //$data['imageupload'] = \Cloudinary\Uploader::upload("https://sabuj.com/wp-content/uploads/2017/01/vide-1050x478.png");
 
 		$this->load->view('welcome_message',$data);
 	}
@@ -92,7 +92,7 @@ If done correctly, you should see an image popup at the bottom of your welcome p
 As for the rest of the library, now you can access it by using the "\Cloudinary\" namespace in whichever class you have loaded the Cloudinary library (note: this is currently how Cloudinary's examples use the PHP API).
 
 ```php
-$data['imageupload'] = \Cloudinary\Uploader::upload("https://kojiflowers.com/wp-content/uploads/2017/01/vide-1050x478.png");
+$data['imageupload'] = \Cloudinary\Uploader::upload("https://sabuj.com/wp-content/uploads/2017/01/vide-1050x478.png");
         
 ```
 
