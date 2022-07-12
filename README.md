@@ -101,5 +101,3 @@ In the above example the upload would be executed on page load and the result ob
 **Additional Info**
 
 Feel free to fork this project and make some cool stuff with it.  It is still early stage but I welcome help from the dev community.
-
-For updates and/or other stuff to check out, visit my [blog](http://kojiflowers.com/my-blog) or follow me on [Twitter: @KojiFlowers](http://twitter.com/kojiflowers).
